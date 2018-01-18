@@ -1,9 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="vue" type="HTML" />
       <mapping ext="php" type="PHP" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="1111" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <removed_mapping ext="vue" approved="true" type="Vue.js" />
       <mapping pattern="index1" type="XHTML" />
     </extensionMap>
   </component>
