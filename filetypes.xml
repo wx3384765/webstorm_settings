@@ -4,6 +4,7 @@
       <mapping ext="php" type="PHP" />
       <mapping pattern="1111" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping pattern="index1" type="XHTML" />
     </extensionMap>
   </component>
