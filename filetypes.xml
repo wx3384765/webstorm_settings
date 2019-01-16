@@ -6,6 +6,7 @@
       <mapping pattern="1111" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="wpy" type="Vue.js" />
       <mapping pattern="index1" type="XHTML" />
     </extensionMap>
   </component>
